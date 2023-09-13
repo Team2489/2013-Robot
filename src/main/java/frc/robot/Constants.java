@@ -30,5 +30,5 @@ public final class Constants {
   public static final int TalonSRX_TopRight = 21;
   public static final int TalonSRX_TopLeft = 22;
   public static final int XBOX_CONTROLLER_PORT = 0;
- // public static final int XBOX_CONTROLLER_PORT_2 = 1;
+  public static final int XBOX_CONTROLLER_PORT_2 = 1;
 }
